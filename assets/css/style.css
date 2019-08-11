@@ -80,7 +80,7 @@ h2 {
   font-family: var(--head-font);
 }
 
-h6 {
+.buttons {
   text-align: center;
   width: 10%;
   float: right;
